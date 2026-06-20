@@ -3,27 +3,24 @@ const experiences = [
     period: "2024 — 2025",
     role: "UI/UX Designer",
     company: "Urbansolv | Probation",
-    description:
-      "Leading frontend architecture for a suite of fintech products. Implemented micro-frontend architecture, reduced bundle size by 40%, and mentored a team of 5 developers.",
-    technologies: ["React", "TypeScript", "Next.js", "GraphQL"],
+    description: "Membuat berbagai desain komponen UI hingga layout.",
+    technologies: ["Figma"],
     current: true,
   },
   {
     period: "2020 — 2022",
     role: "UI/UX Designer",
     company: "TIKomDik Disdik Jabar | Internship",
-    description:
-      "Built and maintained multiple React applications for enterprise clients. Introduced automated testing practices that improved code coverage to 85%.",
-    technologies: ["React", "Redux", "Jest", "Cypress"],
+    description: "Membuat berbagai desain komponen UI hingga layout.",
+    technologies: ["Figma"],
     current: false,
   },
   {
     period: "2019 — 2020",
     role: "UI/UX Designer",
     company: "Kolecer Media Kreatif | Internship",
-    description:
-      "Contributed to the development of a SaaS platform from MVP to production. Collaborated with designers to implement pixel-perfect UI components.",
-    technologies: ["React", "Node.js", "MongoDB", "AWS"],
+    description: "Membuat berbagai desain komponen UI hingga layout.",
+    technologies: ["Figma"],
     current: false,
   },
   {
@@ -31,8 +28,8 @@ const experiences = [
     role: "Techincal Support",
     company: "LAPAN | Internship",
     description:
-      "Delivered custom web solutions for small businesses and startups. Built 15+ websites and applications, handling everything from design to deployment.",
-    technologies: ["JavaScript", "PHP", "WordPress", "MySQL"],
+      "Praktek Kerja Lapangan semasa sekolah sebagai Technical Support. Melakukan perakitan, pemeliharaan, dan instalasi perangkat keras dan perangkat lunak komputer hingga troubleshooting jaringan",
+    technologies: ["Windows, Linux, Troubleshooting"],
     current: false,
   },
 ];
@@ -48,15 +45,15 @@ export const Experience = () => {
             Petualangan Karirku
           </span>
           <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-6 animate-fade-in animation-delay-100 text-primary">
-            Experience that{" "}
+            Pengalaman{" "}
             <span className="font-serif italic font-normal text-foreground">
               {" "}
-              speaks volumes.
+              kerja.
             </span>
           </h2>
           <p className="text-muted-foreground animate-fade-in animation-delay-200">
-            A timeline of my professional growth, from curious beginner to
-            senior engineer leading teams and building product at scale.
+            Timeline petualanganku di dunia professional, dari mulai magang
+            hingga "to the top."
           </p>
         </div>
         {/* timeline */}

@@ -88,8 +88,8 @@ export const Hero = () => {
             <div className="relative max-w-md mx-auto">
               <div className="relative glass rounded-3xl p-2">
                 <img
-                  src="/profile-photo.jpg"
-                  alt="Fadly"
+                  src={`${import.meta.env.BASE_URL}/profile-photo.jpg`}
+                  alt="POTO AING"
                   className="w-full aspec-[4/5] object-cover rounded-2xl"
                 />
               </div>

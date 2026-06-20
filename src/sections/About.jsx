@@ -1,4 +1,4 @@
-import { Wrench, Users, PaintRoller, Unplug, } from "lucide-react";
+import { Wrench, Users, PaintRoller, Unplug } from "lucide-react";
 
 const highlights = [
   {
@@ -11,7 +11,7 @@ const highlights = [
     icon: Users,
     title: "Cara aku dapet ide",
     description:
-      "Sering dapet ide dari opini temen sendiri di jadiin keyword riset dan juga sering dapet ide dari hasil karya orang lain. Tapi aku gak mau egois, aku bakal ngajuin banding juga ke temen setimku"
+      "Sering dapet ide dari opini temen sendiri di jadiin keyword riset dan juga sering dapet ide dari hasil karya orang lain. Tapi aku gak mau egois, aku bakal ngajuin banding juga ke temen setimku",
   },
   {
     icon: Unplug,
@@ -82,9 +82,8 @@ export const About = () => {
 
             <div className="glass rounded-2xl p-6 animate-fade-in animate-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+                "Seneng aja gitu buat UI yang menarik, tapi bagus aja gak cukup.
+                Sebisa mungkin harus fungsional dan disukai sama pengguna."
               </p>
             </div>
           </div>

@@ -7,7 +7,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/project1.jpg",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/kpKMiI5JrF8UB4iD7r0J2I/MY-KANBAN?m=auto&t=DjibQ9jcXZ2m3YzJ-6",
   },
   {
     title: "Porto2",
@@ -100,15 +100,15 @@ export const Projects = () => {
               {/* image */}
               <div className="relative overflow-hidden aspect-video">
                 <img
-                  src={project.image}
-                  alt={project.title}
+                  src={`${import.meta.env.BASE_URL}${project.image}`}
+                  alt={project.title+"YNAG UDAH DI KERJAIN"}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
                 <div className="absolute inset-0" />
                 {/* overlay link */}
                 <div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <a
-                    href={project.link}
+                    target="_blank" href={project.link}
                     className="p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all"
                   >
                     <ArrowUpRight className="w-5 h-5" />
