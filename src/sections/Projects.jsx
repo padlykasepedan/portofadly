@@ -5,7 +5,7 @@ const projects = [
     title: "Kongban",
     description:
       "Inspirasinya dari soal testing sebagai frontend developer yang tugasnya buat aplikasi kanban board, tapi hanya halaman kanban boardnya saja. Aku coba inisiatif buat coba kembangin dari mulai buat desain UI-nya terus implementasi jadi aplikasi penuh. Oh iyah, aku buatnya pake Typescript, React terus dikombinasikan dengan TailwindCSS.",
-    image: "/projects/project1.jpg",
+    image: "/projects/kongban.png",
     tags: [
       "Figma",
       "UI Design",
