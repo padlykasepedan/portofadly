@@ -2,17 +2,17 @@ import { ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
-    title: "Porto1",
+    title: "Kongban",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Inspirasinya dari soal testing sebagai frontend developer yang tugasnya buat aplikasi kanban board, tapi hanya halaman kanban boardnya saja. Aku coba inisiatif buat coba kembangin dari mulai buat desain UI-nya terus implementasi jadi aplikasi penuh. Oh iyah, aku buatnya pake Typescript, React terus dikombinasikan dengan TailwindCSS.",
     image: "/projects/project1.jpg",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "ReactJS", "Typescript", "TailwindCSS"],
     link: "https://www.figma.com/design/kpKMiI5JrF8UB4iD7r0J2I/MY-KANBAN?m=auto&t=DjibQ9jcXZ2m3YzJ-6",
   },
   {
-    title: "Porto2",
+    title: "Urbansolv Creative Company Profile",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv.",
     image: "/projects/project2.jpg",
     tags: ["Figma", "UI Design"],
     link: "#",
@@ -53,11 +53,19 @@ const projects = [
     title: "Porto4",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
+    image: "/projects/project2.jpg",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
+    title: "Porto4",
+    description:
+      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+    image: "/projects/project4.jpg",
+    tags: ["Figma", "UI Design"],
+    link: "#",
+  },
+   {
     title: "Porto4",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
@@ -80,14 +88,15 @@ export const Projects = () => {
             Yang Pernah Aku Kerjain
           </span>
           <h2 className="text-4xl md:text-5xl font-bold mt-4 mb-6 animate-fade-in animation-delay-100 text-secondary-foregroundfore">
-            Proyek yang 
+            Proyek yang
             <span className="font-serif italic font-normal text-primary">
               {" "}
               ngebuat jadi belajar.
             </span>
           </h2>
           <p className="text-muted-foreground animate-fade-in animation-delay-200">
-            Beberapa proyek pilihan yang sudah aku kerjain, bermodalkan <i>learn by doing</i>
+            Beberapa proyek pilihan yang sudah aku kerjain, bermodalkan{" "}
+            <i>learn by doing</i>
           </p>
         </div>
         {/* project grid */}
@@ -101,14 +110,15 @@ export const Projects = () => {
               <div className="relative overflow-hidden aspect-video">
                 <img
                   src={`${import.meta.env.BASE_URL}${project.image}`}
-                  alt={project.title+"YNAG UDAH DI KERJAIN"}
+                  alt={project.title + "YNAG UDAH DI KERJAIN"}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
                 <div className="absolute inset-0" />
                 {/* overlay link */}
                 <div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                   <a
-                    target="_blank" href={project.link}
+                    target="_blank"
+                    href={project.link}
                     className="p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all"
                   >
                     <ArrowUpRight className="w-5 h-5" />
