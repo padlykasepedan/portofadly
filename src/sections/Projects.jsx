@@ -6,8 +6,31 @@ const projects = [
     description:
       "Inspirasinya dari soal testing sebagai frontend developer yang tugasnya buat aplikasi kanban board, tapi hanya halaman kanban boardnya saja. Aku coba inisiatif buat coba kembangin dari mulai buat desain UI-nya terus implementasi jadi aplikasi penuh. Oh iyah, aku buatnya pake Typescript, React terus dikombinasikan dengan TailwindCSS.",
     image: "/projects/project1.jpg",
-    tags: ["Figma", "UI Design", "ReactJS", "Typescript", "TailwindCSS"],
+    tags: [
+      "Figma",
+      "UI Design",
+      "ReactJS",
+      "TypeScript",
+      "TailwindCSS",
+      "Frontend",
+    ],
     link: "https://www.figma.com/design/kpKMiI5JrF8UB4iD7r0J2I/MY-KANBAN?m=auto&t=DjibQ9jcXZ2m3YzJ-6",
+  },
+  {
+    title: "DilanRentCar website",
+    description:
+      "Aku ditugasin buat website katalog rental mobil, dalam proyek ini aku tuh di ingkari janji. Giliran belum jadi di suruh cepet, begitu udah jadi malahan nggak ada respek atau apresiasi apapun. Udah gitu janjinya mau dibayar tapi sampe sekarang nggak ada berita sama sekali (orangnya ilang malahan wkwkwk). Tapi nggak apa - apa, jadiin pelajaran aja supaya lebih profesional dan teliti lagi buat ambil proyekan",
+    image: "/projects/project3.jpg",
+    tags: ["JavaScript", "CSS", "Frontend",],
+    link: "#",
+  },
+  {
+    title: "Behind Rail Studio",
+    description:
+      "Aku bantu temen, btw temenku tuh ngerintis buka jasa develop produk digital. Biar gampang dikenal sama orang lain beliau berencana untuk membangun website Company Profile. Aku menawarkan seorang diri untuk mencoba ngembangin websitenya, itung - itung belajar biar jadi profesional hehe :)",
+    image: "/projects/project4.jpg",
+    tags: ["Figma", "UI Design", "Frontend", "TypeScript", "TailwindCSS"],
+    link: "#",
   },
   {
     title: "Urbansolv Creative Company Profile",
@@ -18,22 +41,6 @@ const projects = [
     link: "#",
   },
   {
-    title: "Porto3",
-    description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project3.jpg",
-    tags: ["Figma", "UI Design"],
-    link: "#",
-  },
-  {
-    title: "Porto4",
-    description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
-    tags: ["Figma", "UI Design"],
-    link: "#",
-  },
-  {
     title: "Porto4",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
@@ -65,7 +72,7 @@ const projects = [
     tags: ["Figma", "UI Design"],
     link: "#",
   },
-   {
+  {
     title: "Porto4",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
