@@ -35,7 +35,7 @@ const projects = [
   {
     title: "Urbansolv Creative Company Profile",
     description:
-      "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv.",
+      "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv. Urbansolv bukan cuman tentang geospatial aja loh, tapi juga merintis jasa kreatif juga. Beberapa jasa yang ditawarkannya adalah pembuatan website, event organizer, pembuatan grafis desain, editing video, copy writer dan pembuatan UI/UX Desain juga.",
     image: "/projects/urbansolvcreative.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/fjujXWDZP1LUaBzehZy0Qd/NOMOR1?node-id=32-227&t=XXDvdf6O8JkLykza-1",
@@ -43,7 +43,7 @@ const projects = [
   {
     title: "iGet",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Proyek ini adalah aplikasi pencari data Geospatial yang berbasis prompting AI yang nantinya pengguna akan mendapatkan kumpulan data geologi berbagai daerah bahkan pulau.",
     image: "/projects/iget.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/QMVVYTyIR3VC0u2VPI7mKZ/iget?node-id=62-19&t=vuzdZJUm7AUfxraW-1",
@@ -51,7 +51,7 @@ const projects = [
   {
     title: "SCCIC Startup Competition",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "SCCIC pernah ngadain kompetisi startup yang bergerak dibidang Smart City yang berkolaborasi dengan ICESCO berbasis Internasional.",
     image: "/projects/sccicstartup.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/B5Je3U6imQZbaphtuYm3xX/SCCIC-STARTUP-COMPETITION-2024--ICESCO-?node-id=24-431&t=bwJuc8eiH35hXwpF-1",
@@ -67,7 +67,7 @@ const projects = [
   {
     title: "Cena Space Pos",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Urbansolv punya aplikasi monitoring yang disebut CENA. Dalam proyek ini bekerja sama dengan aset pos, guna memonitoring aset bangunan gedung yang dimiliki oleh pos.",
     image: "/projects/cenaspacepos.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/4nULAcEUJfD5QybjTFtGgU/pos?node-id=0-1&t=TnDWyGzpw0VQik12-1",
@@ -75,7 +75,7 @@ const projects = [
   {
     title: "WP0 Dashboard",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Aku ditugasin buat dashboard dari WP0. Jadi ini tuh dashboard 'core' dari semua proyek startup yang ada dibawah naungan SCCIC ITB, salah satunya yaitu 'WP3' termasuk dalam produk digitalnya. ",
     image: "/projects/wp0dashboard.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/P1LhCPQJDeN3eoO1OUn7sw/Untitled?node-id=1-2&t=57oUQKSb5SKG37lx-1",
@@ -83,7 +83,7 @@ const projects = [
   {
     title: "WP3",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Proyek ini dibuat guna untuk memonitoring kualitas ketersediaan air untuk Institut Teknologi Bandung Jatinangor. Urbansolv juga membuat jasa digital twin 3D untuk alat pengukur kualitas air berbasis web, serta dashboard untuk memonitoring ketersediaan. Web ini dibuat untuk para peneliti mahasiswa S3nya di ITB.",
     image: "/projects/wp3.png",
     tags: ["Figma", "UI Design"],
     link: "https://www.figma.com/design/UZ3oNJgqVTHBmP72u2P7QV/wp?node-id=1008-1491&t=41CrShR6ZTFAWCMY-1",
@@ -91,7 +91,7 @@ const projects = [
   {
     title: "Urbansolv Geospatial Company Profile",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Hari pertama waktu magang di Urbansolv, aku dikasih tugas untuk bangun UI Desain Company Profile tentang website Geospatial milik Urbansolv. Jadi Urbansolv itu startup rintisan yang bergerak di bidang geospatial, yang salah satu jasanya membangun digital twin.",
     image: "/projects/urbansolvkompro.png",
     tags: ["Figma", "UI Design", "Website UI"],
     link: "https://www.figma.com/design/XbPgUWNvr1FgfxuGuVmgtA/Untitled?node-id=0-1&t=6zMTO6Aw0pK0nkFU-1",
