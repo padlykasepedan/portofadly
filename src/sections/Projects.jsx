@@ -30,7 +30,7 @@ const projects = [
       "Aku bantu temen, btw temenku tuh ngerintis buka jasa develop produk digital. Biar gampang dikenal sama orang lain beliau berencana untuk membangun website Company Profile. Aku menawarkan seorang diri untuk mencoba ngembangin websitenya, itung - itung belajar biar jadi profesional hehe :)",
     image: "/projects/brskompro.png",
     tags: ["Figma", "UI Design", "Frontend", "TypeScript", "TailwindCSS"],
-    link: "#",
+    link: "https://www.figma.com/design/71a0ZD4jkxs7h6Q7iyqmP5/brs?node-id=42-272&t=JK81fr19hSKm57Go-1",
   },
   {
     title: "Urbansolv Creative Company Profile",
@@ -38,7 +38,7 @@ const projects = [
       "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv.",
     image: "/projects/urbansolvcreative.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/fjujXWDZP1LUaBzehZy0Qd/NOMOR1?node-id=32-227&t=XXDvdf6O8JkLykza-1",
   },
   {
     title: "iGet",
@@ -46,7 +46,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/iget.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/QMVVYTyIR3VC0u2VPI7mKZ/iget?node-id=62-19&t=vuzdZJUm7AUfxraW-1",
   },
   {
     title: "SCCIC Startup Competition",
@@ -54,7 +54,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/sccicstartup.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/B5Je3U6imQZbaphtuYm3xX/SCCIC-STARTUP-COMPETITION-2024--ICESCO-?node-id=24-431&t=bwJuc8eiH35hXwpF-1",
   },
   {
     title: "Teritorial Monitoring",
@@ -62,7 +62,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/teritorialmonitoring.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/4DrONidevQKPjWMoIS7hPf/Teritorial-Monitoring?node-id=40-960&t=zAmp0c8gVKiseghk-1",
   },
   {
     title: "Cena Space Pos",
@@ -70,7 +70,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/cenaspacepos.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/4nULAcEUJfD5QybjTFtGgU/pos?node-id=0-1&t=TnDWyGzpw0VQik12-1",
   },
   {
     title: "WP0 Dashboard",
@@ -78,7 +78,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/wp0dashboard.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/P1LhCPQJDeN3eoO1OUn7sw/Untitled?node-id=1-2&t=57oUQKSb5SKG37lx-1",
   },
   {
     title: "WP3",
@@ -86,7 +86,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/wp3.png",
     tags: ["Figma", "UI Design"],
-    link: "#",
+    link: "https://www.figma.com/design/UZ3oNJgqVTHBmP72u2P7QV/wp?node-id=1008-1491&t=41CrShR6ZTFAWCMY-1",
   },
   {
     title: "Urbansolv Geospatial Company Profile",
@@ -94,7 +94,7 @@ const projects = [
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
     image: "/projects/urbansolvkompro.png",
     tags: ["Figma", "UI Design", "Website UI"],
-    link: "#",
+    link: "https://www.figma.com/design/XbPgUWNvr1FgfxuGuVmgtA/Untitled?node-id=0-1&t=6zMTO6Aw0pK0nkFU-1",
   },
   {
     title: "Kolecer Media Kreatif Company Profile",
@@ -102,7 +102,7 @@ const projects = [
       "Hasil Desain yang dibuat kali ini untuk CV. Kolecer Media Kreatif, waktu aku menjalani program magang dari kampus tepat sewaktu semester 6 di perkuliahan. Kebetulan banget aku di pilih jadi seorang UI/UX Design, waktu itu kasusnya perusahaan ini belum punya Website Company Profile.",
     image: "/projects/kolecermediakreatif.png",
     tags: ["Figma", "UI Design", "Website UI"],
-    link: "#",
+    link: "https://www.figma.com/design/eucciD5EwhiXsuz4uDDgN2/KolecerMediaKreatif?node-id=0-1&t=de0oiZoVrpSizFzl-1",
   },
   {
     title: "TIKomDik Disdik Jabar Company Profile",
@@ -110,7 +110,7 @@ const projects = [
       "Pertama kali aku coba buat Desain UI untuk web Company Profilenya TIKomDik Disdik Jabar. Salah satu temenku tuh seorang fullstack webdev dan waktu itu aku belum pernah coba buat desain UI untuk website, sebagai pembelajaran ini kali pertamanya aku belajar gimana caranya untuk buat desain untuk web.",
     image: "/projects/tikomdikweb.png",
     tags: ["Figma", "UI Design", "Redesign", "Website UI"],
-    link: "#",
+    link: "https://www.figma.com/design/G1QC0nicQV3V2IWvLZGprX/v1?node-id=1-5&t=9nBfHREopdV0wu3w-1",
   },
   {
     title: "Presensi Absen TIKomDik Disdik Jabar",
@@ -118,7 +118,7 @@ const projects = [
       "Ini pertama kali aku buat Desain UI untuk mobile apps, sebelumnya aku belum pernah belajar atau coba buat desain UI. Tapi salah satu temen smp ngasih kepercayaan bahwa aku tuh bisa ngerjainnya, dari sini aku mulai menerapkan 'learn by doing' dengan seiring berjalan waktu. Aplikasi ini udah di update beberapa kali oleh internal, jadi aku putuskan buat ulang desainnya. Btw versi asli desainnya di buat dengan Adobe XD, jadi aku kembangin lagi desainnya dengan versi akhir dari aplikasinya. ",
     image: "/projects/presensitikomdik.png",
     tags: ["Figma", "UI Design", "Mobile Apps UI"],
-    link: "#",
+    link: "https://www.figma.com/design/i5BjSQ8NHuA3e9k08QT81x/PRESENSIABSEN?node-id=12-274&t=mILST6JZ3vmRGtUm-1",
   },
 ];
 
