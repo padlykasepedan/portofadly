@@ -21,14 +21,14 @@ const projects = [
     description:
       "Aku ditugasin buat website katalog rental mobil, dalam proyek ini aku tuh di ingkari janji. Giliran belum jadi di suruh cepet, begitu udah jadi malahan nggak ada respek atau apresiasi apapun. Udah gitu janjinya mau dibayar tapi sampe sekarang nggak ada berita sama sekali (orangnya ilang malahan wkwkwk). Tapi nggak apa - apa, jadiin pelajaran aja supaya lebih profesional dan teliti lagi buat ambil proyekan",
     image: "/projects/project3.jpg",
-    tags: ["JavaScript", "CSS", "Frontend",],
+    tags: ["JavaScript", "CSS", "Frontend"],
     link: "#",
   },
   {
     title: "Behind Rail Studio",
     description:
       "Aku bantu temen, btw temenku tuh ngerintis buka jasa develop produk digital. Biar gampang dikenal sama orang lain beliau berencana untuk membangun website Company Profile. Aku menawarkan seorang diri untuk mencoba ngembangin websitenya, itung - itung belajar biar jadi profesional hehe :)",
-    image: "/projects/project4.jpg",
+    image: "/projects/brskompro.png",
     tags: ["Figma", "UI Design", "Frontend", "TypeScript", "TailwindCSS"],
     link: "#",
   },
@@ -36,48 +36,88 @@ const projects = [
     title: "Urbansolv Creative Company Profile",
     description:
       "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv.",
-    image: "/projects/project2.jpg",
+    image: "/projects/urbansolvcreative.png",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
-    title: "Porto4",
+    title: "iGet",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
+    image: "/projects/iget.png",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
-    title: "Porto4",
+    title: "SCCIC Startup Competition",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
+    image: "/projects/sccicstartup.png",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
-    title: "Porto4",
+    title: "Teritorial Monitoring",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project2.jpg",
+    image: "/projects/teritorialmonitoring.png",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
-    title: "Porto4",
+    title: "Cena Space Pos",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
+    image: "/projects/cenaspacepos.png",
     tags: ["Figma", "UI Design"],
     link: "#",
   },
   {
-    title: "Porto4",
+    title: "WP0 Dashboard",
     description:
       "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
-    image: "/projects/project4.jpg",
+    image: "/projects/wp0dashboard.png",
     tags: ["Figma", "UI Design"],
+    link: "#",
+  },
+  {
+    title: "WP3",
+    description:
+      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+    image: "/projects/wp3.png",
+    tags: ["Figma", "UI Design"],
+    link: "#",
+  },
+  {
+    title: "Urbansolv Geospatial Company Profile",
+    description:
+      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+    image: "/projects/urbansolvkompro.png",
+    tags: ["Figma", "UI Design", "Website UI"],
+    link: "#",
+  },
+  {
+    title: "Kolecer Media Kreatif Company Profile",
+    description:
+      "Hasil Desain yang dibuat kali ini untuk CV. Kolecer Media Kreatif, waktu aku menjalani program magang dari kampus tepat sewaktu semester 6 di perkuliahan. Kebetulan banget aku di pilih jadi seorang UI/UX Design, waktu itu kasusnya perusahaan ini belum punya Website Company Profile.",
+    image: "/projects/kolecermediakreatif.png",
+    tags: ["Figma", "UI Design", "Website UI"],
+    link: "#",
+  },
+  {
+    title: "TIKomDik Disdik Jabar Company Profile",
+    description:
+      "Pertama kali aku coba buat Desain UI untuk web Company Profilenya TIKomDik Disdik Jabar. Salah satu temenku tuh seorang fullstack webdev dan waktu itu aku belum pernah coba buat desain UI untuk website, sebagai pembelajaran ini kali pertamanya aku belajar gimana caranya untuk buat desain untuk web.",
+    image: "/projects/tikomdikweb.png",
+    tags: ["Figma", "UI Design", "Redesign", "Website UI"],
+    link: "#",
+  },
+  {
+    title: "Presensi Absen TIKomDik Disdik Jabar",
+    description:
+      "Ini pertama kali aku buat Desain UI untuk mobile apps, sebelumnya aku belum pernah belajar atau coba buat desain UI. Tapi salah satu temen smp ngasih kepercayaan bahwa aku tuh bisa ngerjainnya, dari sini aku mulai menerapkan 'learn by doing' dengan seiring berjalan waktu. Aplikasi ini udah di update beberapa kali oleh internal, jadi aku putuskan buat ulang desainnya. Btw versi asli desainnya di buat dengan Adobe XD, jadi aku kembangin lagi desainnya dengan versi akhir dari aplikasinya. ",
+    image: "/projects/presensitikomdik.png",
+    tags: ["Figma", "UI Design", "Mobile Apps UI"],
     link: "#",
   },
 ];
