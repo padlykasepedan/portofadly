@@ -29,7 +29,7 @@ const projects = [
     description:
       "Aku bantu temen, btw temenku tuh ngerintis buka jasa develop produk digital. Biar gampang dikenal sama orang lain beliau berencana untuk membangun website Company Profile. Aku menawarkan seorang diri untuk mencoba ngembangin websitenya, itung - itung belajar biar jadi profesional hehe :)",
     image: "/projects/brskompro.png",
-    tags: ["Figma", "UI Design", "Frontend", "TypeScript", "TailwindCSS"],
+    tags: ["Figma", "UI Design", "Frontend", "TypeScript", "TailwindCSS", "Company Profile", "Website UI"],
     link: "https://www.figma.com/design/71a0ZD4jkxs7h6Q7iyqmP5/brs?node-id=42-272&t=JK81fr19hSKm57Go-1",
   },
   {
@@ -37,15 +37,31 @@ const projects = [
     description:
       "Salah satu tugas aku waktu magang diperintahin buat Desain UI Company Profile untuk devisi kreatif dari Urbansolv. Urbansolv bukan cuman tentang geospatial aja loh, tapi juga merintis jasa kreatif juga. Beberapa jasa yang ditawarkannya adalah pembuatan website, event organizer, pembuatan grafis desain, editing video, copy writer dan pembuatan UI/UX Desain juga.",
     image: "/projects/urbansolvcreative.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "Company Profile", "Monitoring"],
     link: "https://www.figma.com/design/fjujXWDZP1LUaBzehZy0Qd/NOMOR1?node-id=32-227&t=XXDvdf6O8JkLykza-1",
+  },
+  {
+    title: "Cover Laporan Keuangan Konsolidasian PGN Solution",
+    description:
+      "Bantuin sodara buat design cover buku laporan keuangan dari PGN Solution, sebenernya ini tuh sayembara dikantornya (ada yang lomba poster, cover buku, bahkan buat design bannernya juga). Biasa lah yah kalo lomba kan ada hadiahnya siapa yang menang dan bagus, tapi sayangnya aku gak dapet wkwkwk. Tapi masih sukur sih designnya juga ke pake akhirnya",
+    image: "/projects/pgncover.png",
+    tags: ["Figma", "Cover Design"],
+    link: "https://www.figma.com/design/JD2FtXLzw6LTDSIeNhIpUa/Cover-1?node-id=0-1&t=Y1gkzRevxZqlDyel-1",
+  },
+  {
+    title: "CENA Bandung",
+    description:
+      "Proyek ini adalah aplikasi sistem informasi data Geospatial berbasis website guna untuk memonitoring suatu keadaan distrik atau kota. Kurang lebih data yang didapat adalah persentase mobilitas suatu distrik, infrastuktur publik, dan transportasi. Aplikasi internal milik Urbansolv",
+    image: "/projects/cenabandung.png",
+    tags: ["Figma", "UI Design" , "Website UI", "Monitoring"],
+    link: "#",
   },
   {
     title: "iGet",
     description:
       "Proyek ini adalah aplikasi pencari data Geospatial yang berbasis prompting AI yang nantinya pengguna akan mendapatkan kumpulan data geologi berbagai daerah bahkan pulau.",
     image: "/projects/iget.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design" , "Website UI"],
     link: "https://www.figma.com/design/QMVVYTyIR3VC0u2VPI7mKZ/iget?node-id=62-19&t=vuzdZJUm7AUfxraW-1",
   },
   {
@@ -53,15 +69,15 @@ const projects = [
     description:
       "SCCIC pernah ngadain kompetisi startup yang bergerak dibidang Smart City yang berkolaborasi dengan ICESCO berbasis Internasional.",
     image: "/projects/sccicstartup.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "Landing Page" , "Website UI"],
     link: "https://www.figma.com/design/B5Je3U6imQZbaphtuYm3xX/SCCIC-STARTUP-COMPETITION-2024--ICESCO-?node-id=24-431&t=bwJuc8eiH35hXwpF-1",
   },
   {
     title: "Teritorial Monitoring",
     description:
-      "Udahlah isinya lorem ipsum dulu ajam, asli nanti diisi yang serius beneran",
+      "Aplikasi internal milik Urbansolv untuk melakukan monitoring suatu keadaan keamanan dalam kota, meliputi jalan raya serta area publik terbuka.",
     image: "/projects/teritorialmonitoring.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "Monitoring" , "Website UI"],
     link: "https://www.figma.com/design/4DrONidevQKPjWMoIS7hPf/Teritorial-Monitoring?node-id=40-960&t=zAmp0c8gVKiseghk-1",
   },
   {
@@ -69,23 +85,47 @@ const projects = [
     description:
       "Urbansolv punya aplikasi monitoring yang disebut CENA. Dalam proyek ini bekerja sama dengan aset pos, guna memonitoring aset bangunan gedung yang dimiliki oleh pos.",
     image: "/projects/cenaspacepos.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "Monitoring" , "Website UI"],
     link: "https://www.figma.com/design/4nULAcEUJfD5QybjTFtGgU/pos?node-id=0-1&t=TnDWyGzpw0VQik12-1",
+  },
+  {
+    title: "Smart Building Dashboard",
+    description:
+      "Aplikasi internal milik Urbansolv untuk memonitoring suatu smart building ini guna mendapatkan informasi seputar ketersediaan dalam gedung. Diantaranya ketersediaan listrik, kualitas air, kelembapan ruangan pada gedung, human tracking.",
+    image: "/projects/dashboardsmartbuilding.png",
+    tags: ["Figma", "UI Design", "Dashboard", , "Website UI"],
+    link: "#",
+  },
+  {
+    title: "Smart Building Water Monitoring",
+    description:
+      "Aplikasi internal Urbansolv ini guna untuk memonitoring khusus tentang kualitas kelayakan air yang ada di gedung. Masih terkait dengan CENA juga yang hanya khusus digunakan ruang lingkup Urbansolv saja. ",
+    image: "/projects/smartbuildingwater.png",
+    tags: ["Figma", "UI Design" , "Website UI"],
+    link: "#",
   },
   {
     title: "WP0 Dashboard",
     description:
-      "Aku ditugasin buat dashboard dari WP0. Jadi ini tuh dashboard 'core' dari semua proyek startup yang ada dibawah naungan SCCIC ITB, salah satunya yaitu 'WP3' termasuk dalam produk digitalnya. ",
+      "Aku ditugasin buat dashboard dari WP0. Jadi ini tuh dashboard 'core' dari semua proyek startup yang ada dibawah naungan SCCIC ITB, salah satunya yaitu 'WP3' termasuk dalam produk digitalnya. Aplikasi ini tidak publik atau hanya digunakan oleh ruang lingkup Urbansolv saja.",
     image: "/projects/wp0dashboard.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design" , "Website UI"],
     link: "https://www.figma.com/design/P1LhCPQJDeN3eoO1OUn7sw/Untitled?node-id=1-2&t=57oUQKSb5SKG37lx-1",
+  },
+  {
+    title: "NTU Landing Page",
+    description:
+      "Landing page ini di buat untuk website tentang proyek apa saya yang terkandung dalam WP, termasuk 4 startup milik SCCIC ITB yang bergerak di bidang yang berbeda. Salah satunya adalah WP3 yang meneliti tentang kualitas kelauyakan air siap pakai untuk penggunaan kamar bandi dan air konsumsi.",
+    image: "/projects/ntulanding.png",
+    tags: ["Figma", "UI Design" , "Website UI", , "Landing Page"],
+    link: "https://www.figma.com/design/UZ3oNJgqVTHBmP72u2P7QV/wp?node-id=1008-1491&t=41CrShR6ZTFAWCMY-1",
   },
   {
     title: "WP3",
     description:
       "Proyek ini dibuat guna untuk memonitoring kualitas ketersediaan air untuk Institut Teknologi Bandung Jatinangor. Urbansolv juga membuat jasa digital twin 3D untuk alat pengukur kualitas air berbasis web, serta dashboard untuk memonitoring ketersediaan. Web ini dibuat untuk para peneliti mahasiswa S3nya di ITB.",
     image: "/projects/wp3.png",
-    tags: ["Figma", "UI Design"],
+    tags: ["Figma", "UI Design", "Website UI"],
     link: "https://www.figma.com/design/UZ3oNJgqVTHBmP72u2P7QV/wp?node-id=1008-1491&t=41CrShR6ZTFAWCMY-1",
   },
   {
@@ -97,12 +137,36 @@ const projects = [
     link: "https://www.figma.com/design/XbPgUWNvr1FgfxuGuVmgtA/Untitled?node-id=0-1&t=6zMTO6Aw0pK0nkFU-1",
   },
   {
+    title: "Wisata Sekeliling",
+    description:
+      "Design ini dibuat untuk kebutuhan sidang semester 7 yang mana ditugaskan untuk pengembangkan dan penelitian aplikasi wisata. Secara singkatnya proyek design ini diperuntukan mencari destinasi wisata, akomodasi yang tersedia untuk berwisata, travelling, pembelian tiket dan makanan, hingga pemesanan hotel.",
+    image: "/projects/wisatamobile.png",
+    tags: ["Figma", "UI Design", "Mobile Apps"],
+    link: "#",
+  },
+  {
     title: "Kolecer Media Kreatif Company Profile",
     description:
       "Hasil Desain yang dibuat kali ini untuk CV. Kolecer Media Kreatif, waktu aku menjalani program magang dari kampus tepat sewaktu semester 6 di perkuliahan. Kebetulan banget aku di pilih jadi seorang UI/UX Design, waktu itu kasusnya perusahaan ini belum punya Website Company Profile.",
     image: "/projects/kolecermediakreatif.png",
     tags: ["Figma", "UI Design", "Website UI"],
     link: "https://www.figma.com/design/eucciD5EwhiXsuz4uDDgN2/KolecerMediaKreatif?node-id=0-1&t=de0oiZoVrpSizFzl-1",
+  },
+  {
+    title: "Sokes",
+    description:
+      "Design ini ditujukan hanya untuk lomba konsep UI/UX Hackathon, bertemakan kesehatan posyandu di suatu daerah perkampungan. Penyelenggara lomba ini dari kampus UGM yang bekerjasama dengan Hackathon.",
+    image: "/projects/sokes.png",
+    tags: ["Figma", "UI Design", "Website UI"],
+    link: "#",
+  },
+  {
+    title: "DenMin Sender",
+    description:
+      "UI Design untuk aplikasi mobile Android dan iOS yang dibuild menggunakan flutter yang diperuntukan tugas kuliah research method, kebetulan dapet undian aplikasi tracking untuk pengiriman barang dan paket dari dosen.",
+    image: "/projects/denminsender.png",
+    tags: ["Figma", "UI Design", "Mobile Apps"],
+    link: "#",
   },
   {
     title: "TIKomDik Disdik Jabar Company Profile",
